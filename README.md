@@ -7,7 +7,7 @@ Here, are some ideas to get you started:
 
 
 -->
-# Isabella Pantolfo
+# Isabella Pantolfo Melo
 Informática integrado ao ensino médio - IFSP
 
 <h3> Ferramentas e tecnologias <h3/>
