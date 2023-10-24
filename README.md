@@ -1,20 +1,17 @@
+# Isabella Pantolfo 
+🏫 Instituto Federal de ciência e tecnologia de São Paulo
 
-<!--
-**pantolfoo/pantolfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Informática integrado ao ensino médio
 
-Here, are some ideas to get you started:
+📲 isabella.pantolfo@aluno.ifsp.edu.br
 
+📲 isabellapantolfo1101@gmail.com
 
-
--->
-# Isabella Pantolfo Melo
-Informática integrado ao ensino médio - IFSP
 
 <h3> Ferramentas e tecnologias <h3/>
 
 
 <img loading="lazy" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/> <img loading="lazy" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
-
 
  <div>
 <a href="https://github.com/pantolfoo">
