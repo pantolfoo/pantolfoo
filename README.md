@@ -1,5 +1,5 @@
 # Isabella Pantolfo 
-🏫 Instituto Federal de ciência e tecnologia de São Paulo
+🏫 Instituto Federal de educação, ciência e tecnologia de São Paulo
 
 💻 Informática integrado ao ensino médio
 
