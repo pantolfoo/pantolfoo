@@ -3,10 +3,6 @@
 
 💻 Informática integrado ao ensino médio
 
-📲 isabella.pantolfo@aluno.ifsp.edu.br
-
-📲 isabellapantolfo1101@gmail.com
-
 ## Contatos:
 
 <div>
